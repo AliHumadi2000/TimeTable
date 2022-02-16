@@ -1,5 +1,5 @@
 # TimeTable
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -65,7 +65,7 @@ th, td {
 
 <body>
 
-  <h3>Time Table </h3>
+ 
 <div style="overflow-x:auto;">
   <table>
   <tr>
