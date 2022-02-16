@@ -11,7 +11,7 @@ a:link, a:visited {
   background-color: white;
   color: black;
   border: 2px solid green;
-  padding: 10px 20px;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
